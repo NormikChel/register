@@ -1,9 +1,9 @@
 {
-  "owner": {
-    "username": "NormikChel",
-    "email": "nenormikchel@gmail.com"
-  },
-  "records": {
-    "CNAME": "yankeelanguage.vercel.app"
-  }
+    "owner": {
+        "username": "NormikChel",
+        "email": "nenormikchel@gmail.com"
+    },
+    "records": {
+        "TXT": "yankeelanguage.vercel.app"
+    }
 }
